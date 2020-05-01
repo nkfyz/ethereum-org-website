@@ -2,11 +2,11 @@
 title: Home
 meta:
   - name: description
-    content: Ethereum is a global, decentralized platform for money and new kinds of applications. On Ethereum, you can write code that controls money, and build applications accessible anywhere in the world.
+    content: Yaozheng Fang's Documents
   - property: og:title
-    content: Home | Ethereum.org
+    content: Yaozheng Fang's Documents
   - property: og:description
-    content: Ethereum is a global, decentralized platform for money and new kinds of applications. On Ethereum, you can write code that controls money, and build applications accessible anywhere in the world.
+    content: Yaozheng Fang's Documents
 lang: zh-cn
 layout: home
 ---
