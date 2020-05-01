@@ -14,7 +14,7 @@
           >
             {{ lastUpdatedText }}: {{ lastUpdatedDate }}
           </p>
-          <Hero v-if="isHomePage" :isDarkMode="isDarkMode" />
+          
           <Content />
         </main>
         <Sidebar :items="sidebarItems" />
@@ -44,7 +44,6 @@ export default {
   components: {
     Footer,
     Navigation,
-    Hero,
     Sidebar
   },
   beforeMount() {
