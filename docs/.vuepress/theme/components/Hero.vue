@@ -1,5 +1,5 @@
 <template>
-  <div
+  <!--<div
     class="hero relative content-block flex flex-column flex-center center pa-1 pt-4"
   >
     <video
@@ -40,7 +40,7 @@
       </g>
     </svg>
     <h1 class="l2 mb-0 mt-1"><span id="morph" ref="morph">Ξ</span></h1>
-  </div>
+  </div>-->
 </template>
 
 <script>
