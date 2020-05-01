@@ -7,7 +7,7 @@ meta:
     content: Yaozheng Fang's Documents
   - property: og:description
     content: Yaozheng Fang's Documents
-lang: zh-cn
+lang: zh-CN
 layout: home
 ---
 
