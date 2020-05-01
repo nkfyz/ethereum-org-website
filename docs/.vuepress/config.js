@@ -199,7 +199,8 @@ module.exports = {
         { text: translate('page-learn', 'zh-CN'), link: '/zh/learn/' },
         { text: translate('page-developers', 'zh-CN'), link: '/zh/developers/' }
       ]
-    },
+    }
+  },
   plugins: [
     [
       '@vuepress/last-updated',
