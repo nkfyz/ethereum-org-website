@@ -1,14 +1,11 @@
 ---
-title: Home
+title: 首页
 meta:
-  - name: description
-    content: Yaozheng Fang's Documents
   - property: og:title
-    content: Yaozheng Fang's Documents
-  - property: og:description
-    content: Yaozheng Fang's Documents
+    content: 首页 | Yaozheng Fang's Documents
 lang: zh-CN
 layout: home
+sidebar: false
 ---
 
 <HomePage/>
